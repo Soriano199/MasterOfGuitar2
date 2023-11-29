@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MasterOfGuitar</string>
+        <string name="nombre">¿Con quien tengo el placer de hablar?</string>
+        <string name="info">%s, estás usando la versión 1 de MasterOfGuitar</string>
+        <string name="resumen">En esta aplicacion podras aprender a tocar tus canciones favoritas con cualquier guitarra"</string>
+
+
+</resources>
